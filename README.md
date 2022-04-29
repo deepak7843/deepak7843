@@ -15,8 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@deepakshankard4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@deepakshankard4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deepak shankar dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak shankar dubey" height="30" width="40" /></a>
-<a href="https://fb.com/deepak shankar dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deepak shankar dubey" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deepak-shankar-dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak shankar dubey" height="30" width="40" /></a>
+<a href="https://fb.com/deepakshankar.dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deepak shankar dubey" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
