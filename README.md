@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **javascript, mongodb, express, react**
+- 👨‍💻 All of my projects are available at https://deepak-portfolio.vercel.app/
 
 - 📫 How to reach me **deepakshankardubey123@gmail.com**
 
