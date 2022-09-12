@@ -6,10 +6,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak7843" alt="deepak7843" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Redux**
 
 - 💬 Ask me about **javascript, mongodb, express, react**
-- 👨‍💻 All of my projects are available at https://my-portfolio-chi-henna.vercel.app/#/
+- 👨‍💻 All of my projects are available at https://deepak-s-d-portfolio.netlify.app/
 
 - 📫 How to reach me **deepakshankardubey123@gmail.com**
 
