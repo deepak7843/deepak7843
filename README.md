@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning **Redux**
 
 - 💬 Ask me about **javascript, mongodb, express, react**
-- 👨‍💻 All of my projects are available at https://deepak-s-d-portfolio.netlify.app/
 
 - 📫 How to reach me **deepakshankardubey123@gmail.com**
 
