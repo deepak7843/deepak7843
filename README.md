@@ -6,10 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak7843" alt="deepak7843" /></a> </p>
 
-- 🌱 I’m currently learning **Redux**
-
-- 💬 Ask me about **javascript, mongodb, express, react**
-
 - 📫 How to reach me **deepakshankardubey123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
